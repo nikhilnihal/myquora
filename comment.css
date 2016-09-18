@@ -1,0 +1,207 @@
+.bod
+{
+     background-color :#00CCFF;
+
+}
+
+.banner
+{
+     align: left;
+    border-style:solid;
+     padding: 30px 0px 0px 250px;
+    border-width:2px;
+    border-width:thick;
+    border-color:red;
+    width: 1000px;
+    height:100px;
+    font-size:50px;
+    font:bold;
+     background-image: url("iem7.jpg");
+    color: red;
+}
+
+.banner2
+{
+    border-style:solid;
+    border-width:2px;
+    border-width:thick;
+    border-style:dotted;
+    border-color:red;
+    width: 700px;
+    height:500px;
+    font-size:50px;
+    font:bold;
+    background-color :green;
+    color: red;
+}
+
+.navi
+{
+  width: 1000px;
+  height:50px;
+  background-color :#FFC0CB;
+  background-image: url("iem6.jpg");
+  color: red;
+}
+
+
+.cbox
+{
+    position: absolute;
+    top: 200px;
+    left:500px;
+    width: 700px;
+    height:100px;
+    border-style:solid;
+    border-radius: 100px 100px 100px 100px;
+    padding: 40px 0px 0px 70px;
+    background-color :#FF3333;
+    color: yellow;
+}
+
+.box
+{
+   width: 500px;
+    height:50px;
+}
+
+.show
+{
+    float:left;
+    background-color:#99CCCC;
+    border-color:black;
+    border-style:solid;
+    border-radius: 20px 20px 20px 20px;
+    padding: 20px 0px 0px 40px;
+     border-width:2px;
+    border-width:thick;
+     width: 400px;
+    height:800px;
+    margin-right:10px;
+}
+
+.show2
+{
+     float:left;
+    background-color:#99CCCC;
+    border-color:black;
+    border-style:solid;
+    border-radius: 20px 20px 20px 20px;
+    padding: 20px 0px 0px 40px;
+     border-width:2px;
+    border-width:thick;
+     width: 400px;
+    height:800px;
+     margin-right:10px;
+}
+
+.show3
+{
+     float:left;
+    background-color:#99CCCC;
+    border-color:black;
+    border-style:solid;
+    border-radius: 20px 20px 20px 20px;
+    padding: 20px 0px 0px 40px;
+     border-width:2px;
+    border-width:thick;
+     width: 300px;
+    height:500px;
+}
+
+.inside
+{
+    margin:10px;
+    border-style:solid;
+    border-color:white;
+    background-color:yellow;
+    height:auto;
+}
+
+
+.inside_rep
+{
+    margin:10px;
+    border-style:solid;
+    border-color:white;
+    background-color:pink;
+}
+
+.in_rep
+{
+             border-style:solid;
+            border-width:1px;
+            border-color:green;
+             float: left;
+}
+
+.in
+{
+             border-style:solid;
+            border-width:1px;
+            border-color:blue;
+             float: left;
+}
+
+
+.frm
+{
+    align: left;
+    border-style:solid;
+     padding: 20px 0px 0px 300px;
+    border-width:2px;
+    border-width:thick;
+    border-style:solid;
+    border-color:red;
+    width: 1000px;
+    height:100px;
+    font-size:50px;
+    font:bold;
+     background-color :blue;
+   color: white;
+}
+
+
+.signup
+{
+    position: absolute;
+    top: 130px;
+    left:1000px;
+background: #FFFFCC;
+border-style:solid;
+ background-image: url("iem1.jpg");
+border-width:15px;
+border-color:blue;
+width: 200px;
+height:300px;
+padding :100px 20px 50px 20px;
+margin:25px;
+}
+
+body
+{
+background-image: url("iem4.jpg");
+}
+
+.logg
+{
+     position: absolute;
+    top: 130px;
+    left:100px;
+background: #FFFFCC;
+ background-image: url("pic1.jpg");
+border-style:solid;
+border-width:15px;
+border-color:red;
+width: 200px;
+height:300px;
+padding :100px 20px 50px 20px;
+margin:25px;
+
+}
+
+.msg
+{
+  width: 100px;
+  height:100px;
+}
